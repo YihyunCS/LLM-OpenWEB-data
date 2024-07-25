@@ -1,5 +1,7 @@
 # LLM-OpenWEB-data
 
+-- https://huggingface.co/datasets/YihyunML/LLM-OpenWEB-data --
+
 This repository contains a collection of data sourced from the internet for training Large Language Models (LLMs). The data is stored in plaintext format within .txt files, making it easily accessible and usable for training and research purposes.
 
 # Usage
